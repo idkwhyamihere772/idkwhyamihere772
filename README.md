@@ -17,7 +17,8 @@
 I am a passionate software engineer and creative developer who loves building interactive web applications, games, and writing clean, efficient code. 
 
 - 🔭 I’m currently working on web applications and game development.
-- 🌱 I’m currently expanding my knowledge in system design and advanced algorithms.
+- 🌱 I’m currently expanding my knowledge in system design, advanced algorithms, and cybersecurity.
+- 🛡️ **Cybersecurity Interests**: Deeply interested in networking, bug bounty hunting, and analyzing JavaScript codebases/web pages for security vulnerabilities.
 - 💬 Ask me about: **C++, Python, JavaScript, CSS, and UI/UX design**.
 - ⚡ Fun fact: "In the soul of a warrior, there is no room for doubt."
 
@@ -32,6 +33,14 @@ I am a passionate software engineer and creative developer who loves building in
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left">
+  <!-- Security & Networking -->
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Bug_Bounty-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="Bug Bounty" />
+  <img src="https://img.shields.io/badge/Wireshark-167EBC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
 </p>
 
 <p align="left">
